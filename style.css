@@ -44,3 +44,13 @@ h1 {
 .row.forcastBox {
   padding: 0 3rem;
 }
+.col-sm-12.footer a {
+  text-decoration: none;
+  color: #2f55af;
+  font-size: 13px;
+}
+.col-sm-12.footer a:hover {
+  text-decoration: none;
+  color: #fff;
+  font-size: 14px;
+}
