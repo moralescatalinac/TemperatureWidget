@@ -1,0 +1,43 @@
+h1 {
+  color: blue;
+}
+.container {
+  border: 1px solid #dbdbdb;
+  margin-top: 2rem;
+  padding: 2rem;
+  border-radius: 8px;
+  background: linear-gradient(#dddbdb, #0a87e1);
+}
+.col-sm-3.cloudIcon {
+  font-size: 90px;
+  text-align: center;
+}
+.col-sm-8.tempText {
+  font-size: 50px;
+  align-self: center;
+}
+.forcastBox .col-sm {
+  text-align: center;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+  border: aliceblue;
+  margin: 0 0.5rem;
+  padding: 1rem;
+  background: linear-gradient(#dddbdb, #efefef73);
+  border-radius: 6px;
+  font-size: 18px;
+}
+.weatherIcon {
+  font-size: 35px;
+}
+.col-sm-12.forecastHeader {
+  text-align: center;
+  padding: 0.5rem;
+  font-size: 18px;
+}
+.col-sm-6.currentTownText {
+  font-size: 28px;
+  padding-left: 3rem;
+}
+#currentDateTime {
+  font-size: 16px;
+}
