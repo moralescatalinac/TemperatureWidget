@@ -35,9 +35,12 @@ h1 {
   font-size: 18px;
 }
 .col-sm-6.currentTownText {
-  font-size: 28px;
+  font-size: 38px;
   padding-left: 3rem;
 }
 #currentDateTime {
   font-size: 16px;
+}
+.row.forcastBox {
+  padding: 0 3rem;
 }
